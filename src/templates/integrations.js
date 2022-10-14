@@ -24,6 +24,8 @@ export const query = graphql`
           publicURL
         }
         docURL
+        howItWorks
+        howItWorksDetails
         category
         featureList
         workingSlides {
